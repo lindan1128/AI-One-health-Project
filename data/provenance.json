@@ -1,0 +1,25 @@
+{
+  "source": "Supplementary_Data.xlsx",
+  "source_sha256": "fcf797c44f0034fe107b3307dcaa730e989168ff48dd24a9f214fa7940342bd8",
+  "snapshot_date": "2026-10-26",
+  "original_research": 1390,
+  "reviews": 396,
+  "article_role_pairs": 2349,
+  "tier_pairs_pending_contextual_reassessment": 2307,
+  "publication_date_flags": {
+    "potentially_after_cutoff": 65,
+    "precise_date_unresolved": 16
+  },
+  "country_classification_source": "https://unctadstat.unctad.org/EN/Classifications/DimCountries_All_Hierarchy.pdf",
+  "country_classification_snapshot": "2026-09-09",
+  "map_source": "Natural Earth admin-0 countries, 1:110m",
+  "map_license_url": "https://www.naturalearthdata.com/about/terms-of-use/",
+  "data_sha256": {
+    "country_groups.csv": "2e527550a88dce6ec85f9715ed0d66ec75da4a145e99289351221327412d974b",
+    "country_universe.csv": "fa3828d76f3fc05816671aad2cfe27cb7eb90632136c88080d2b7409fe29dab4",
+    "map_layout.csv": "43094f217fc3967aa419404ad43aa74189164d0049a2a697d154d3b168ae28ef",
+    "map_routes.json": "7704df35714311605ddf455257001189a8576e800770cedb1af81e8ad3b576f4",
+    "studies.csv": "2c0c0e8d253e8c210d836285a0c6149ba2dd9fb975be8244ae7454e45a461402",
+    "world.geojson": "5af69bc852efec9dfa2cf15dab03a4aa833f7b3634d5986d55058d0700b9c639"
+  }
+}

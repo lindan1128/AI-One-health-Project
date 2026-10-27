@@ -1,0 +1,181 @@
+group,year,track,fractional_articles,articles
+Developed economies,2016,Health systems,0,1
+Developed economies,2016,Emerging zoonoses,0,1
+Developed economies,2016,Endemic and vector-borne diseases,0.5,1
+Developed economies,2016,Food safety,0,1
+Developed economies,2016,Antimicrobial resistance,0.5,1
+Developed economies,2016,Environment and health,0,1
+Developed economies,2017,Health systems,0,6
+Developed economies,2017,Emerging zoonoses,0.5,6
+Developed economies,2017,Endemic and vector-borne diseases,1.0,6
+Developed economies,2017,Food safety,0,6
+Developed economies,2017,Antimicrobial resistance,0,6
+Developed economies,2017,Environment and health,4.5,6
+Developed economies,2018,Health systems,0,11
+Developed economies,2018,Emerging zoonoses,0,11
+Developed economies,2018,Endemic and vector-borne diseases,1.25,11
+Developed economies,2018,Food safety,1.75,11
+Developed economies,2018,Antimicrobial resistance,4.75,11
+Developed economies,2018,Environment and health,3.25,11
+Developed economies,2019,Health systems,0.25,15
+Developed economies,2019,Emerging zoonoses,0.25,15
+Developed economies,2019,Endemic and vector-borne diseases,0.5,15
+Developed economies,2019,Food safety,1.25,15
+Developed economies,2019,Antimicrobial resistance,6.25,15
+Developed economies,2019,Environment and health,6.5,15
+Developed economies,2020,Health systems,0,34
+Developed economies,2020,Emerging zoonoses,2.5833333333333335,34
+Developed economies,2020,Endemic and vector-borne diseases,2.666666666666667,34
+Developed economies,2020,Food safety,2.1666666666666665,34
+Developed economies,2020,Antimicrobial resistance,18.083333333333336,34
+Developed economies,2020,Environment and health,8.5,34
+Developed economies,2021,Health systems,0,62
+Developed economies,2021,Emerging zoonoses,6.166666666666666,62
+Developed economies,2021,Endemic and vector-borne diseases,6.0,62
+Developed economies,2021,Food safety,4.833333333333332,62
+Developed economies,2021,Antimicrobial resistance,25.833333333333336,62
+Developed economies,2021,Environment and health,19.166666666666664,62
+Developed economies,2022,Health systems,1.0833333333333333,54
+Developed economies,2022,Emerging zoonoses,4.083333333333333,54
+Developed economies,2022,Endemic and vector-borne diseases,5.0,54
+Developed economies,2022,Food safety,5.583333333333334,54
+Developed economies,2022,Antimicrobial resistance,23.25,54
+Developed economies,2022,Environment and health,15.0,54
+Developed economies,2023,Health systems,0.5,67
+Developed economies,2023,Emerging zoonoses,6.499999999999999,67
+Developed economies,2023,Endemic and vector-borne diseases,12.916666666666666,67
+Developed economies,2023,Food safety,3.916666666666667,67
+Developed economies,2023,Antimicrobial resistance,25.916666666666668,67
+Developed economies,2023,Environment and health,17.25,67
+Developed economies,2024,Health systems,2.333333333333333,104
+Developed economies,2024,Emerging zoonoses,4.25,104
+Developed economies,2024,Endemic and vector-borne diseases,12.25,104
+Developed economies,2024,Food safety,7.916666666666666,104
+Developed economies,2024,Antimicrobial resistance,49.00000000000001,104
+Developed economies,2024,Environment and health,28.249999999999996,104
+Developed economies,2025,Health systems,2.533333333333333,127
+Developed economies,2025,Emerging zoonoses,7.7,127
+Developed economies,2025,Endemic and vector-borne diseases,6.583333333333334,127
+Developed economies,2025,Food safety,9.95,127
+Developed economies,2025,Antimicrobial resistance,44.61666666666667,127
+Developed economies,2025,Environment and health,55.61666666666666,127
+Other developing economies,2016,Health systems,0,0
+Other developing economies,2016,Emerging zoonoses,0,0
+Other developing economies,2016,Endemic and vector-borne diseases,0,0
+Other developing economies,2016,Food safety,0,0
+Other developing economies,2016,Antimicrobial resistance,0,0
+Other developing economies,2016,Environment and health,0,0
+Other developing economies,2017,Health systems,0,0
+Other developing economies,2017,Emerging zoonoses,0,0
+Other developing economies,2017,Endemic and vector-borne diseases,0,0
+Other developing economies,2017,Food safety,0,0
+Other developing economies,2017,Antimicrobial resistance,0,0
+Other developing economies,2017,Environment and health,0,0
+Other developing economies,2018,Health systems,0,4
+Other developing economies,2018,Emerging zoonoses,0,4
+Other developing economies,2018,Endemic and vector-borne diseases,0,4
+Other developing economies,2018,Food safety,0,4
+Other developing economies,2018,Antimicrobial resistance,2.5,4
+Other developing economies,2018,Environment and health,1.5,4
+Other developing economies,2019,Health systems,0,8
+Other developing economies,2019,Emerging zoonoses,1.0,8
+Other developing economies,2019,Endemic and vector-borne diseases,0.5,8
+Other developing economies,2019,Food safety,0,8
+Other developing economies,2019,Antimicrobial resistance,2.0,8
+Other developing economies,2019,Environment and health,4.5,8
+Other developing economies,2020,Health systems,0,14
+Other developing economies,2020,Emerging zoonoses,0,14
+Other developing economies,2020,Endemic and vector-borne diseases,1.0833333333333333,14
+Other developing economies,2020,Food safety,0.5833333333333333,14
+Other developing economies,2020,Antimicrobial resistance,2.25,14
+Other developing economies,2020,Environment and health,10.083333333333332,14
+Other developing economies,2021,Health systems,0,37
+Other developing economies,2021,Emerging zoonoses,2.0,37
+Other developing economies,2021,Endemic and vector-borne diseases,2.5,37
+Other developing economies,2021,Food safety,1.0,37
+Other developing economies,2021,Antimicrobial resistance,11.0,37
+Other developing economies,2021,Environment and health,20.5,37
+Other developing economies,2022,Health systems,0.25,58
+Other developing economies,2022,Emerging zoonoses,3.083333333333333,58
+Other developing economies,2022,Endemic and vector-borne diseases,3.333333333333333,58
+Other developing economies,2022,Food safety,4.75,58
+Other developing economies,2022,Antimicrobial resistance,17.083333333333336,58
+Other developing economies,2022,Environment and health,29.5,58
+Other developing economies,2023,Health systems,0.25,84
+Other developing economies,2023,Emerging zoonoses,9.666666666666668,84
+Other developing economies,2023,Endemic and vector-borne diseases,7.333333333333333,84
+Other developing economies,2023,Food safety,4.583333333333334,84
+Other developing economies,2023,Antimicrobial resistance,23.333333333333332,84
+Other developing economies,2023,Environment and health,38.83333333333333,84
+Other developing economies,2024,Health systems,2.75,135
+Other developing economies,2024,Emerging zoonoses,6.75,135
+Other developing economies,2024,Endemic and vector-borne diseases,13.000000000000002,135
+Other developing economies,2024,Food safety,7.999999999999999,135
+Other developing economies,2024,Antimicrobial resistance,44.833333333333336,135
+Other developing economies,2024,Environment and health,59.666666666666664,135
+Other developing economies,2025,Health systems,3.1666666666666665,258
+Other developing economies,2025,Emerging zoonoses,16.25,258
+Other developing economies,2025,Endemic and vector-borne diseases,22.749999999999996,258
+Other developing economies,2025,Food safety,15.916666666666671,258
+Other developing economies,2025,Antimicrobial resistance,67.75000000000001,258
+Other developing economies,2025,Environment and health,132.16666666666663,258
+Least developed countries,2016,Health systems,0,0
+Least developed countries,2016,Emerging zoonoses,0,0
+Least developed countries,2016,Endemic and vector-borne diseases,0,0
+Least developed countries,2016,Food safety,0,0
+Least developed countries,2016,Antimicrobial resistance,0,0
+Least developed countries,2016,Environment and health,0,0
+Least developed countries,2017,Health systems,0,0
+Least developed countries,2017,Emerging zoonoses,0,0
+Least developed countries,2017,Endemic and vector-borne diseases,0,0
+Least developed countries,2017,Food safety,0,0
+Least developed countries,2017,Antimicrobial resistance,0,0
+Least developed countries,2017,Environment and health,0,0
+Least developed countries,2018,Health systems,0,0
+Least developed countries,2018,Emerging zoonoses,0,0
+Least developed countries,2018,Endemic and vector-borne diseases,0,0
+Least developed countries,2018,Food safety,0,0
+Least developed countries,2018,Antimicrobial resistance,0,0
+Least developed countries,2018,Environment and health,0,0
+Least developed countries,2019,Health systems,0,1
+Least developed countries,2019,Emerging zoonoses,0,1
+Least developed countries,2019,Endemic and vector-borne diseases,0,1
+Least developed countries,2019,Food safety,0,1
+Least developed countries,2019,Antimicrobial resistance,0,1
+Least developed countries,2019,Environment and health,1.0,1
+Least developed countries,2020,Health systems,0,0
+Least developed countries,2020,Emerging zoonoses,0,0
+Least developed countries,2020,Endemic and vector-borne diseases,0,0
+Least developed countries,2020,Food safety,0,0
+Least developed countries,2020,Antimicrobial resistance,0,0
+Least developed countries,2020,Environment and health,0,0
+Least developed countries,2021,Health systems,0,2
+Least developed countries,2021,Emerging zoonoses,0,2
+Least developed countries,2021,Endemic and vector-borne diseases,0.5,2
+Least developed countries,2021,Food safety,0,2
+Least developed countries,2021,Antimicrobial resistance,0,2
+Least developed countries,2021,Environment and health,1.5,2
+Least developed countries,2022,Health systems,0,1
+Least developed countries,2022,Emerging zoonoses,0,1
+Least developed countries,2022,Endemic and vector-borne diseases,0,1
+Least developed countries,2022,Food safety,0,1
+Least developed countries,2022,Antimicrobial resistance,0,1
+Least developed countries,2022,Environment and health,1.0,1
+Least developed countries,2023,Health systems,0,3
+Least developed countries,2023,Emerging zoonoses,1.0,3
+Least developed countries,2023,Endemic and vector-borne diseases,0,3
+Least developed countries,2023,Food safety,0,3
+Least developed countries,2023,Antimicrobial resistance,0,3
+Least developed countries,2023,Environment and health,2.0,3
+Least developed countries,2024,Health systems,0,4
+Least developed countries,2024,Emerging zoonoses,0.3333333333333333,4
+Least developed countries,2024,Endemic and vector-borne diseases,0.3333333333333333,4
+Least developed countries,2024,Food safety,0,4
+Least developed countries,2024,Antimicrobial resistance,1.3333333333333333,4
+Least developed countries,2024,Environment and health,2.0,4
+Least developed countries,2025,Health systems,0,13
+Least developed countries,2025,Emerging zoonoses,1.75,13
+Least developed countries,2025,Endemic and vector-borne diseases,5.75,13
+Least developed countries,2025,Food safety,0.25,13
+Least developed countries,2025,Antimicrobial resistance,0,13
+Least developed countries,2025,Environment and health,5.25,13

@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590.4pt" height="201.6pt" viewBox="0 0 590.4 201.6">
+<title>Figure 2A. AI research in One Health over time</title>
+<g font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#111111">
+<polyline points="156.628,132.623 158.380,133.000 160.132,133.000 161.884,133.000 163.636,133.000 165.388,133.000 167.140,132.245 168.893,132.623 170.645,131.868 210.066,132.623 249.488,131.490 288.909,127.339 328.331,125.829 367.752,117.903 407.174,105.448 446.595,100.542 486.017,91.861 525.438,64.687 564.860,21.661" fill="none" stroke="#c17c70" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="160.132,132.623 161.884,133.000 163.636,133.000 165.388,133.000 167.140,133.000 168.893,133.000 170.645,133.000 210.066,133.000 249.488,131.868 288.909,131.868 328.331,129.603 367.752,123.565 407.174,111.865 446.595,109.977 486.017,102.429 525.438,84.690 564.860,57.894" fill="none" stroke="#a7b6cb" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="525.438,131.113 564.860,126.206" fill="none" stroke="#d8c398" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="60.264" y1="133.000" x2="60.264" y2="114.129" stroke="#C65359" stroke-width="2.6" stroke-dasharray="7 5"/>
+<circle cx="60.264" cy="114.129" r="3.300" fill="#C65359" stroke="none" stroke-width="0.5"/>
+<line x1="144.364" y1="133.000" x2="144.364" y2="76.387" stroke="#C65359" stroke-width="2.6" stroke-dasharray="7 5"/>
+<circle cx="144.364" cy="76.387" r="3.300" fill="#C65359" stroke="none" stroke-width="0.5"/>
+<line x1="249.488" y1="133.000" x2="249.488" y2="57.516" stroke="#C65359" stroke-width="2.6" stroke-dasharray="7 5"/>
+<circle cx="249.488" cy="57.516" r="3.300" fill="#C65359" stroke="none" stroke-width="0.5"/>
+<line x1="446.595" y1="133.000" x2="446.595" y2="38.645" stroke="#C65359" stroke-width="2.6" stroke-dasharray="7 5"/>
+<circle cx="446.595" cy="38.645" r="3.300" fill="#C65359" stroke="none" stroke-width="0.5"/>
+<text x="56.264" y="104.129" font-size="11" text-anchor="start" fill="#111111" font-weight="normal">1952: Machine</text>
+<text x="144.364" y="66.387" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal">2000: Deep Learning</text>
+<text x="249.488" y="47.516" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal">2017: Transformer Architecture</text>
+<text x="446.595" y="28.645" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal">2022: ChatGPT</text>
+<text x="78.264" y="117.129" font-size="11" text-anchor="start" fill="#111111" font-weight="normal">Learning</text>
+<line x1="48.000" y1="16.000" x2="48.000" y2="133.000" stroke="#111111" stroke-width="1.5"/>
+<line x1="48.000" y1="133.000" x2="578.000" y2="133.000" stroke="#111111" stroke-width="1.5"/>
+<line x1="44.000" y1="133.000" x2="48.000" y2="133.000" stroke="#111111" stroke-width="1.2"/>
+<text x="41.000" y="137.000" font-size="11" text-anchor="end" fill="#111111" font-weight="normal">0</text>
+<line x1="44.000" y1="95.258" x2="48.000" y2="95.258" stroke="#111111" stroke-width="1.2"/>
+<text x="41.000" y="99.258" font-size="11" text-anchor="end" fill="#111111" font-weight="normal">100</text>
+<line x1="44.000" y1="57.516" x2="48.000" y2="57.516" stroke="#111111" stroke-width="1.2"/>
+<text x="41.000" y="61.516" font-size="11" text-anchor="end" fill="#111111" font-weight="normal">200</text>
+<line x1="44.000" y1="19.774" x2="48.000" y2="19.774" stroke="#111111" stroke-width="1.2"/>
+<text x="41.000" y="23.774" font-size="11" text-anchor="end" fill="#111111" font-weight="normal">300</text>
+<line x1="65.521" y1="133.000" x2="65.521" y2="137.000" stroke="#111111" stroke-width="1.2"/>
+<text x="68.521" y="141.000" font-size="11" text-anchor="end" fill="#111111" font-weight="normal" transform="rotate(-90 68.52066115702479 141)">1955</text>
+<line x1="91.802" y1="133.000" x2="91.802" y2="137.000" stroke="#111111" stroke-width="1.2"/>
+<text x="94.802" y="141.000" font-size="11" text-anchor="end" fill="#111111" font-weight="normal" transform="rotate(-90 94.80165289256199 141)">1970</text>
+<line x1="118.083" y1="133.000" x2="118.083" y2="137.000" stroke="#111111" stroke-width="1.2"/>
+<text x="121.083" y="141.000" font-size="11" text-anchor="end" fill="#111111" font-weight="normal" transform="rotate(-90 121.08264462809917 141)">1985</text>
+<line x1="144.364" y1="133.000" x2="144.364" y2="137.000" stroke="#111111" stroke-width="1.2"/>
+<text x="147.364" y="141.000" font-size="11" text-anchor="end" fill="#111111" font-weight="normal" transform="rotate(-90 147.36363636363637 141)">2000</text>
+<line x1="170.645" y1="133.000" x2="170.645" y2="137.000" stroke="#111111" stroke-width="1.2"/>
+<text x="173.645" y="141.000" font-size="11" text-anchor="end" fill="#111111" font-weight="normal" transform="rotate(-90 173.64462809917356 141)">2015</text>
+<line x1="210.066" y1="133.000" x2="210.066" y2="137.000" stroke="#111111" stroke-width="1.2"/>
+<text x="210.066" y="148.000" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal">2016</text>
+<line x1="249.488" y1="133.000" x2="249.488" y2="137.000" stroke="#111111" stroke-width="1.2"/>
+<text x="249.488" y="148.000" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal">2017</text>
+<line x1="288.909" y1="133.000" x2="288.909" y2="137.000" stroke="#111111" stroke-width="1.2"/>
+<text x="288.909" y="148.000" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal">2018</text>
+<line x1="328.331" y1="133.000" x2="328.331" y2="137.000" stroke="#111111" stroke-width="1.2"/>
+<text x="328.331" y="148.000" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal">2019</text>
+<line x1="367.752" y1="133.000" x2="367.752" y2="137.000" stroke="#111111" stroke-width="1.2"/>
+<text x="367.752" y="148.000" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal">2020</text>
+<line x1="407.174" y1="133.000" x2="407.174" y2="137.000" stroke="#111111" stroke-width="1.2"/>
+<text x="407.174" y="148.000" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal">2021</text>
+<line x1="446.595" y1="133.000" x2="446.595" y2="137.000" stroke="#111111" stroke-width="1.2"/>
+<text x="446.595" y="148.000" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal">2022</text>
+<line x1="486.017" y1="133.000" x2="486.017" y2="137.000" stroke="#111111" stroke-width="1.2"/>
+<text x="486.017" y="148.000" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal">2023</text>
+<line x1="525.438" y1="133.000" x2="525.438" y2="137.000" stroke="#111111" stroke-width="1.2"/>
+<text x="525.438" y="148.000" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal">2024</text>
+<line x1="564.860" y1="133.000" x2="564.860" y2="137.000" stroke="#111111" stroke-width="1.2"/>
+<text x="564.860" y="148.000" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal">2025</text>
+<text x="13.000" y="74.500" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal" transform="rotate(-90 13 74.5)">Number of studies</text>
+<text x="313.000" y="177.000" font-size="11" text-anchor="middle" fill="#111111" font-weight="normal">Publication year</text>
+<line x1="75.000" y1="193.000" x2="93.000" y2="193.000" stroke="#c17c70" stroke-width="3"/>
+<text x="99.000" y="197.000" font-size="11" text-anchor="start" fill="#111111" font-weight="normal">Machine learning</text>
+<line x1="252.000" y1="193.000" x2="270.000" y2="193.000" stroke="#a7b6cb" stroke-width="3"/>
+<text x="276.000" y="197.000" font-size="11" text-anchor="start" fill="#111111" font-weight="normal">Deep learning</text>
+<line x1="419.000" y1="193.000" x2="437.000" y2="193.000" stroke="#d8c398" stroke-width="3"/>
+<text x="443.000" y="197.000" font-size="11" text-anchor="start" fill="#111111" font-weight="normal">Language models</text>
+</g></svg>

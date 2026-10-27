@@ -1,0 +1,19 @@
+role,tier,label,articles,role_total,percent,display_percent
+Analysis,T1,Pattern discovery,210,1231,17.059301380991066,17.1
+Analysis,T2,Robustness checks,1006,1231,81.72217709179529,81.7
+Analysis,T3,External replication,15,1231,1.2185215272136474,1.2
+Analysis,T4,Experimental confirmation,0,1231,0.0,0.0
+Prediction,T1,Model development,173,973,17.780061664953752,17.8
+Prediction,T2,Internal validation,763,973,78.41726618705036,78.4
+Prediction,T3,External validation,34,973,3.4943473792394655,3.5
+Prediction,T4,Prospective validation,3,973,0.30832476875642345,0.3
+Generation,T1,Data generation,11,38,28.94736842105263,28.9
+Generation,T2,Quality assessment,15,38,39.473684210526315,39.5
+Generation,T3,Functional testing,12,38,31.57894736842105,31.6
+Generation,T4,Real-world utility,0,38,0.0,0.0
+Decision support,T1,Offline testing,90,91,98.9010989010989,98.9
+Decision support,T2,Simulation comparison,1,91,1.098901098901099,1.1
+Decision support,T3,Real-world comparison,0,91,0.0,0.0
+Intervention,T1,Uncontrolled trial,13,16,81.25,81.2
+Intervention,T2,Non-randomized controlled trial,2,16,12.5,12.5
+Intervention,T3,Randomized controlled trial,1,16,6.25,6.3

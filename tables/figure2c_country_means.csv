@@ -1,0 +1,31 @@
+group,year,country_denominator,excluded_top_two,mean_all,mean_excluding_top_two
+Developed economies,2016,74,United States of America|United Kingdom,0.013513513513513514,0.0
+Developed economies,2017,74,United States of America|United Kingdom,0.0945945945945946,0.06944444444444445
+Developed economies,2018,74,United States of America|United Kingdom,0.14864864864864866,0.027777777777777776
+Developed economies,2019,74,United States of America|United Kingdom,0.20270270270270271,0.05555555555555555
+Developed economies,2020,74,United States of America|United Kingdom,0.5,0.2361111111111111
+Developed economies,2021,74,United States of America|United Kingdom,0.8783783783783784,0.4305555555555556
+Developed economies,2022,74,United States of America|United Kingdom,0.7567567567567568,0.4166666666666667
+Developed economies,2023,74,United States of America|United Kingdom,0.9324324324324325,0.5972222222222222
+Developed economies,2024,74,United States of America|United Kingdom,1.4864864864864864,0.8888888888888888
+Developed economies,2025,74,United States of America|United Kingdom,1.8243243243243243,1.1805555555555556
+Other developing economies,2016,142,China|India,0.0,0.0
+Other developing economies,2017,142,China|India,0.0,0.0
+Other developing economies,2018,142,China|India,0.035211267605633804,0.02857142857142857
+Other developing economies,2019,142,China|India,0.06338028169014084,0.02857142857142857
+Other developing economies,2020,142,China|India,0.1056338028169014,0.05
+Other developing economies,2021,142,China|India,0.2676056338028169,0.14285714285714285
+Other developing economies,2022,142,China|India,0.4225352112676056,0.15
+Other developing economies,2023,142,China|India,0.6549295774647887,0.3
+Other developing economies,2024,142,China|India,1.0211267605633803,0.37857142857142856
+Other developing economies,2025,142,China|India,1.9295774647887325,0.7357142857142858
+Least developed countries,2016,48,Bangladesh|Ethiopia,0.0,0.0
+Least developed countries,2017,48,Bangladesh|Ethiopia,0.0,0.0
+Least developed countries,2018,48,Bangladesh|Ethiopia,0.020833333333333332,0.021739130434782608
+Least developed countries,2019,48,Bangladesh|Ethiopia,0.020833333333333332,0.0
+Least developed countries,2020,48,Bangladesh|Ethiopia,0.0,0.0
+Least developed countries,2021,48,Bangladesh|Ethiopia,0.041666666666666664,0.0
+Least developed countries,2022,48,Bangladesh|Ethiopia,0.020833333333333332,0.021739130434782608
+Least developed countries,2023,48,Bangladesh|Ethiopia,0.0625,0.021739130434782608
+Least developed countries,2024,48,Bangladesh|Ethiopia,0.10416666666666667,0.043478260869565216
+Least developed countries,2025,48,Bangladesh|Ethiopia,0.2708333333333333,0.10869565217391304
